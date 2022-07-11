@@ -1,0 +1,194 @@
+,country,beer_servings,spirit_servings,wine_servings,continent,total_litres_of_pure_alcohol,alcohol
+0,Afghanistan,0,0,low,AS,0.0,0.0
+1,Albania,89,132,low,EU,4.9,4.9
+2,Algeria,25,0,low,AF,0.7,0.7
+3,Andorra,245,138,high,EU,12.4,12.4
+4,Angola,217,57,low,AF,5.9,5.9
+5,Antigua & Barbuda,102,128,low,NoA,4.9,4.9
+6,Argentina,193,25,high,SA,8.3,8.3
+7,Armenia,21,179,low,EU,3.8,3.8
+8,Australia,261,72,high,OC,10.4,10.4
+9,Austria,279,75,high,EU,9.7,9.7
+10,Azerbaijan,21,46,low,EU,1.3,1.3
+11,Bahamas,122,176,low,NoA,6.3,6.3
+12,Bahrain,42,63,low,AS,2.0,2.0
+13,Bangladesh,0,0,low,AS,0.0,0.0
+14,Barbados,143,173,low,NoA,6.3,6.3
+15,Belarus,142,373,low,EU,14.4,14.4
+16,Belgium,295,84,high,EU,10.5,10.5
+17,Belize,263,114,low,NoA,6.8,6.8
+18,Benin,34,4,low,AF,1.1,1.1
+19,Bhutan,23,0,low,AS,0.4,0.4
+20,Bolivia,167,41,low,SA,3.8,3.8
+21,Bosnia-Herzegovina,76,173,low,EU,4.6,4.6
+22,Botswana,173,35,low,AF,5.4,5.4
+23,Brazil,245,145,low,SA,7.2,7.2
+24,Brunei,31,2,low,AS,0.6,0.6
+25,Bulgaria,231,252,low,EU,10.3,10.3
+26,Burkina Faso,25,7,low,AF,4.3,4.3
+27,Burundi,88,0,low,AF,6.3,6.3
+28,Cote d'Ivoire,37,1,low,AF,4.0,4.0
+29,Cabo Verde,144,56,low,AF,4.0,4.0
+30,Cambodia,57,65,low,AS,2.2,2.2
+31,Cameroon,147,1,low,AF,5.8,5.8
+32,Canada,240,122,low,NoA,8.2,8.2
+33,Central African Republic,17,2,low,AF,1.8,1.8
+34,Chad,15,1,low,AF,0.4,0.4
+35,Chile,130,124,high,SA,7.6,7.6
+36,China,79,192,low,AS,5.0,5.0
+37,Colombia,159,76,low,SA,4.2,4.2
+38,Comoros,1,3,low,AF,0.1,0.1
+39,Congo,76,1,low,AF,1.7,1.7
+40,Cook Islands,0,254,low,OC,5.9,5.9
+41,Costa Rica,149,87,low,NoA,4.4,4.4
+42,Croatia,230,87,high,EU,10.2,10.2
+43,Cuba,93,137,low,NoA,4.2,4.2
+44,Cyprus,192,154,high,EU,8.2,8.2
+45,Czech Republic,361,170,high,EU,11.8,11.8
+46,North Korea,0,0,low,AS,0.0,0.0
+47,DR Congo,32,3,low,AF,2.3,2.3
+48,Denmark,224,81,high,EU,10.4,10.4
+49,Djibouti,15,44,low,AF,1.1,1.1
+50,Dominica,52,286,low,NoA,6.6,6.6
+51,Dominican Republic,193,147,low,NoA,6.2,6.2
+52,Ecuador,162,74,low,SA,4.2,4.2
+53,Egypt,6,4,low,AF,0.2,0.2
+54,El Salvador,52,69,low,NoA,2.2,2.2
+55,Equatorial Guinea,92,0,high,AF,5.8,5.8
+56,Eritrea,18,0,low,AF,0.5,0.5
+57,Estonia,224,194,low,EU,9.5,9.5
+58,Ethiopia,20,3,low,AF,0.7,0.7
+59,Fiji,77,35,low,OC,2.0,2.0
+60,Finland,263,133,low,EU,10.0,10.0
+61,France,127,151,high,EU,11.8,11.8
+62,Gabon,347,98,low,AF,8.9,8.9
+63,Gambia,8,0,low,AF,2.4,2.4
+64,Georgia,52,100,high,EU,5.4,5.4
+65,Germany,346,117,high,EU,11.3,11.3
+66,Ghana,31,3,low,AF,1.8,1.8
+67,Greece,133,112,high,EU,8.3,8.3
+68,Grenada,199,438,low,NoA,11.9,11.9
+69,Guatemala,53,69,low,NoA,2.2,2.2
+70,Guinea,9,0,low,AF,0.2,0.2
+71,Guinea-Bissau,28,31,low,AF,2.5,2.5
+72,Guyana,93,302,low,SA,7.1,7.1
+73,Haiti,1,326,low,NoA,5.9,5.9
+74,Honduras,69,98,low,NoA,3.0,3.0
+75,Hungary,234,215,high,EU,11.3,11.3
+76,Iceland,233,61,low,EU,6.6,6.6
+77,India,9,114,low,AS,2.2,2.2
+78,Indonesia,5,1,low,AS,0.1,0.1
+79,Iran,0,0,low,AS,0.0,0.0
+80,Iraq,9,3,low,AS,0.2,0.2
+81,Ireland,313,118,high,EU,11.4,11.4
+82,Israel,63,69,low,AS,2.5,2.5
+83,Italy,85,42,high,EU,6.5,6.5
+84,Jamaica,82,97,low,NoA,3.4,3.4
+85,Japan,77,202,low,AS,7.0,7.0
+86,Jordan,6,21,low,AS,0.5,0.5
+87,Kazakhstan,124,246,low,AS,6.8,6.8
+88,Kenya,58,22,low,AF,1.8,1.8
+89,Kiribati,21,34,low,OC,1.0,1.0
+90,Kuwait,0,0,low,AS,0.0,0.0
+91,Kyrgyzstan,31,97,low,AS,2.4,2.4
+92,Laos,62,0,high,AS,6.2,6.2
+93,Latvia,281,216,low,EU,10.5,10.5
+94,Lebanon,20,55,low,AS,1.9,1.9
+95,Lesotho,82,29,low,AF,2.8,2.8
+96,Liberia,19,152,low,AF,3.1,3.1
+97,Libya,0,0,low,AF,0.0,0.0
+98,Lithuania,343,244,low,EU,12.9,12.9
+99,Luxembourg,236,133,high,EU,11.4,11.4
+100,Madagascar,26,15,low,AF,0.8,0.8
+101,Malawi,8,11,low,AF,1.5,1.5
+102,Malaysia,13,4,low,AS,0.3,0.3
+103,Maldives,0,0,low,AS,0.0,0.0
+104,Mali,5,1,low,AF,0.6,0.6
+105,Malta,149,100,high,EU,6.6,6.6
+106,Marshall Islands,0,0,low,OC,0.0,0.0
+107,Mauritania,0,0,low,AF,0.0,0.0
+108,Mauritius,98,31,low,AF,2.6,2.6
+109,Mexico,238,68,low,NoA,5.5,5.5
+110,Micronesia,62,50,low,OC,2.3,2.3
+111,Monaco,0,0,low,EU,0.0,0.0
+112,Mongolia,77,189,low,AS,4.9,4.9
+113,Montenegro,31,114,high,EU,4.9,4.9
+114,Morocco,12,6,low,AF,0.5,0.5
+115,Mozambique,47,18,low,AF,1.3,1.3
+116,Myanmar,5,1,low,AS,0.1,0.1
+117,Namibia,376,3,low,AF,6.8,6.8
+118,Nauru,49,0,low,OC,1.0,1.0
+119,Nepal,5,6,low,AS,0.2,0.2
+120,Netherlands,251,88,high,EU,9.4,9.4
+121,New Zealand,203,79,high,OC,9.3,9.3
+122,Nicaragua,78,118,low,NoA,3.5,3.5
+123,Niger,3,2,low,AF,0.1,0.1
+124,Nigeria,42,5,low,AF,9.1,9.1
+125,Niue,188,200,low,OC,7.0,7.0
+126,Norway,169,71,high,EU,6.7,6.7
+127,Oman,22,16,low,AS,0.7,0.7
+128,Pakistan,0,0,low,AS,0.0,0.0
+129,Palau,306,63,low,OC,6.9,6.9
+130,Panama,285,104,low,NoA,7.2,7.2
+131,Papua New Guinea,44,39,low,OC,1.5,1.5
+132,Paraguay,213,117,low,SA,7.3,7.3
+133,Peru,163,160,low,SA,6.1,6.1
+134,Philippines,71,186,low,AS,4.6,4.6
+135,Poland,343,215,low,EU,10.9,10.9
+136,Portugal,194,67,high,EU,11.0,11.0
+137,Qatar,1,42,low,AS,0.9,0.9
+138,South Korea,140,16,low,AS,9.8,9.8
+139,Moldova,109,226,low,EU,6.3,6.3
+140,Romania,297,122,high,EU,10.4,10.4
+141,Russian Federation,247,326,low,AS,11.5,11.5
+142,Rwanda,43,2,low,AF,6.8,6.8
+143,St. Kitts & Nevis,194,205,low,NoA,7.7,7.7
+144,St. Lucia,171,315,low,NoA,10.1,10.1
+145,St. Vincent & the Grenadines,120,221,low,NoA,6.3,6.3
+146,Samoa,105,18,low,OC,2.6,2.6
+147,San Marino,0,0,low,EU,0.0,0.0
+148,Sao Tome & Principe,56,38,high,AF,4.2,4.2
+149,Saudi Arabia,0,5,low,AS,0.1,0.1
+150,Senegal,9,1,low,AF,0.3,0.3
+151,Serbia,283,131,high,EU,9.6,9.6
+152,Seychelles,157,25,low,AF,4.1,4.1
+153,Sierra Leone,25,3,low,AF,6.7,6.7
+154,Singapore,60,12,low,AS,1.5,1.5
+155,Slovakia,196,293,high,EU,11.4,11.4
+156,Slovenia,270,51,high,EU,10.6,10.6
+157,Solomon Islands,56,11,low,OC,1.2,1.2
+158,Somalia,0,0,low,AF,0.0,0.0
+159,South Africa,225,76,low,AF,8.2,8.2
+160,Spain,284,157,high,EU,10.0,10.0
+161,Sri Lanka,16,104,low,AS,2.2,2.2
+162,Sudan,8,13,low,AF,1.7,1.7
+163,Suriname,128,178,low,SA,5.6,5.6
+164,Swaziland,90,2,low,AF,4.7,4.7
+165,Sweden,152,60,high,EU,7.2,7.2
+166,Switzerland,185,100,high,EU,10.2,10.2
+167,Syria,5,35,low,AS,1.0,1.0
+168,Tajikistan,2,15,low,AS,0.3,0.3
+169,Thailand,99,258,low,AS,6.4,6.4
+170,Macedonia,106,27,low,EU,3.9,3.9
+171,Timor-Leste,1,1,low,AS,0.1,0.1
+172,Togo,36,2,low,AF,1.3,1.3
+173,Tonga,36,21,low,OC,1.1,1.1
+174,Trinidad & Tobago,197,156,low,NoA,6.4,6.4
+175,Tunisia,51,3,low,AF,1.3,1.3
+176,Turkey,51,22,low,AS,1.4,1.4
+177,Turkmenistan,19,71,low,AS,2.2,2.2
+178,Tuvalu,6,41,low,OC,1.0,1.0
+179,Uganda,45,9,low,AF,8.3,8.3
+180,Ukraine,206,237,low,EU,8.9,8.9
+181,United Arab Emirates,16,135,low,AS,2.8,2.8
+182,United Kingdom,219,126,high,EU,10.4,10.4
+183,Tanzania,36,6,low,AF,5.7,5.7
+184,USA,249,158,low,NoA,8.7,8.7
+185,Uruguay,115,35,high,SA,6.6,6.6
+186,Uzbekistan,25,101,low,AS,2.4,2.4
+187,Vanuatu,21,18,low,OC,0.9,0.9
+188,Venezuela,333,100,low,SA,7.7,7.7
+189,Vietnam,111,2,low,AS,2.0,2.0
+190,Yemen,6,0,low,AS,0.1,0.1
+191,Zambia,32,19,low,AF,2.5,2.5
+192,Zimbabwe,64,18,low,AF,4.7,4.7

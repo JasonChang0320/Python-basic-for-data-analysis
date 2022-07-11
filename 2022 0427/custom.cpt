@@ -1,0 +1,15 @@
+#
+# white-green-red-magenta profile, with distance along profile proportional
+#   to x**0.7
+#
+# Designed by Jason Chang
+# COLOR_MODEL = RGB
+  0.00 245 242  31   6.01 244 168  48
+  6.01 244 168  48  16.01 244  50  50
+ 16.01 244  50  50  46.01 126  21 161 
+ 46.01 126  21 161  78.00  90  22 160
+ 78.00  90  22 160 100.00   0   0 128
+B   0   0   0
+F 255 255 255
+N 255   0   0
+
